@@ -40,7 +40,7 @@ body {
 
 .rsc-ts-bubble {
   color: #fff !important;
-  background-color: #e84393 !important;
+  background-color: rgb(0, 122, 255) !important;
   font-weight: bolder !important;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 .rsc-header {
-  background: #e84393 !important;
+  background: rgb(0, 122, 255) !important;
 }
 
 input[type='textarea'] {
